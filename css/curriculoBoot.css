@@ -1,0 +1,172 @@
+footer{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #0e0e0ee8;
+}
+#apresentacao {
+    background-color: #2d2e2e;
+    color: white;
+    padding: 40px;
+}
+
+#foto {
+    width: 220px;
+    height: 300px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 60px; 
+    border: 2px solid #ffffff79;
+    border-radius: 8%;
+}
+
+#sobre {    
+    padding: 40px;
+    color: white;
+}
+
+#formacao {
+    color: white;
+    padding: 40px;
+}
+
+#experiencia{
+    color: white;
+    padding: 40px;
+}
+
+#contato {
+    color: white;
+    padding: 40px;
+}
+
+#formulario {
+    color: white;
+    padding: 40px;
+}
+
+*, 
+::after, 
+::before {
+    box-sizing: border-box;
+}
+
+
+.topSobre {
+    background-color: #55b5a8;
+    width: 30%;
+}
+
+.topExperiencia {
+    background-color: #55b5a8;
+    width: 30%;
+}
+
+.topFormacao {
+    background-color: #55b5a8;
+    width: 30%;
+}
+.table-dark {
+    color: #eff1f1;
+    width: 70%;
+}
+
+.topFormulario {
+    background-color: #55b5a8;
+    width: 30%;
+}
+
+.topEndereco {
+    background-color: #55b5a8;
+    width: 30%;
+}
+
+.chocobo {
+    width: 20px;
+    height: 25px;
+}
+
+.FormNome {
+    width: 100%;
+    font-size: 14px;
+}
+
+.FormTel {
+    width: 40%;
+    font-size: 14px;
+}
+
+.FormEmail {
+    width: 59%;
+    font-size: 14px;
+}
+
+.comments{
+    width: 100%;
+}
+
+.Formidioma{
+    width: 40%;
+}
+
+.requisitos{
+    font-size: 15px;
+    margin: auto;
+    padding: 4px;
+}
+
+.input-group {
+    width: 59%;
+    
+}
+
+.formmultiple {
+    width: 15%;
+}
+#teste{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    line-height: 20px;
+}
+#teste img{
+    width: 50px;
+    height: 50px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #414141;
+    border-radius: 5px;
+}
+
+label{
+    color: white;
+    padding: auto;
+}
+
+hr {
+    color: white;
+}
+
+.AllanMenu {
+    background-color: #2d2e2e;
+}
+
+a.AllanMenu {
+    background-color: #2d2e2ec2;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+a:hover{
+    color: #55b5a8;
+}
+
+a:active {
+    color: #8debde;
+}
